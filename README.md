@@ -1,4 +1,4 @@
-# Capstone-Project
+# AI -text-completion-project
 
 # 💫 About Me:
 My name is Kira and I am a software engineer
